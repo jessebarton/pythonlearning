@@ -7,5 +7,13 @@ Chp.4
 6. 1
 7. [3.14,'cat',11,'cat',True, 99]
 8. [3.14,11,'cat',True]
-9.
+9. The + operator is for concatenation and the * is for list replication.
+10. Append adds argument to the end of a list. Insert adds argument at any index in the list.
+11. del statement and remove() method
+12. They both can be indexed, sliced, used with for loops, with len(), and with in and not in operators.
+13. Tuples are not mutable and lists are. Tuples are typed with parenthases () and lists are with brackets[].
+14. tuple=(42,)
+15. The functions tuple() and list(). tuple([list]) list[(tuple)]
+16. The contain references to list values. 
+17. copy.copy() will copy perform a shallow copy of a list. copy.deepcopy() will copy inner lists within a list.
 
