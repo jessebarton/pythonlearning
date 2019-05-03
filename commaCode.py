@@ -7,5 +7,5 @@ while True:
         break
     myList = myList +[item] #concatenate list
 print('Items in the list are:')
-for Items in myList:
-        print(*myList, sep = ", ") 
+
+print(*myList, sep = ", ") 
